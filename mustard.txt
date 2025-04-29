@@ -1,0 +1,30 @@
+HIGH LEVEL
+Everything on personal github. checked in regularly. need to be able to lose computer tomorrow 
+DB on the cloud. plus learn aws
+program needs to be able to learn/grow/experiment indefinitely
+simple parameters like pick a time to buy, then sell after youve made 1% or lost 1%
+
+
+admin
+Mustard99!
+homelander.cjysa866ww26.us-east-2.rds.amazonaws.com
+
+new user
+account-id: 550724410645
+iam-username: zach2
+pwd: Mayo123!D
+
+robinhood
+zachery.poche@krakenflex.com
+Bocaboca99!
+
+Mar21
+What is the benchmark I want to get to? 
+write a program that:
+  executes trades on robinhood
+  uses really dumb logic
+  posts something to an aws db
+  
+sd
+
+
